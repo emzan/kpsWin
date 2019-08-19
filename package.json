@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "An Ionic project",
   "devDependencies": {
+    "@ionic/app-scripts": "^3.2.4",
     "@ionic/lab": "1.0.5",
     "@ionic/v1-toolkit": "1.0.0",
     "gulp": "^3.5.6",
